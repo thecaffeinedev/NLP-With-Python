@@ -1,6 +1,5 @@
 # NLP With Python
 
-#### Goals 
 
 ### 1. Python Text Basics
 
