@@ -2,8 +2,6 @@
 
 #### Goals 
 
-- Opening .txt file and .pdf files with basic python libraries 
-
 1. **Working With Text Files**
 
    - ##### Goals 
