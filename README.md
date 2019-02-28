@@ -28,3 +28,43 @@ ___
      - Searching Patterns
      - Removing Punctuations
       
+___
+### 2. NLP Basics
+
+1. **Spacy Basics**
+
+   - ##### Goals 
+
+     - Spacy Installation
+     - Objects In Spacy
+     - Understanding Pipelines
+     
+2. **Tokenization**
+
+   - ##### Goals
+   
+     - Understanding tokenization in spacy
+     - Counting tokens, vocab entries
+     - Named Entities
+     
+3. **Stemming**
+
+   - ##### Goals
+   
+     - Stemming
+     - Porter Stemmer
+     - Snowball Stemmer
+     
+4. **Lemmatization**
+
+   - ##### Goals
+   
+     - Lemmatization Of a sentence
+     
+ 5. **Stop Words**
+
+     - ##### Goals
+   
+       - Removing, Adding Stop Words
+
+___
