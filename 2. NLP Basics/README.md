@@ -28,11 +28,11 @@
    
      - Understanding Lemmatization 
      
- 4. **Stop Words**
+ 5. **Stop Words**
 
-   - ##### Goals
+     - ##### Goals
    
-     - Stop Words
+       - Stop Words
 
 
       
