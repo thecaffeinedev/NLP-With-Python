@@ -10,7 +10,7 @@ ___
 3. **Regular Expressions**
 ___
 ### 2. NLP Basics
-
+___
 1. **Spacy Basics**
 2. **Tokenization**
 3. **Stemming**
